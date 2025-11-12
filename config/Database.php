@@ -3,7 +3,7 @@ class Database{
     private $host = "localhost";
     private $user = "root";
     private $pass = "";
-    private $db="resto_menu";
+    private $db="lapak_nusantara_db";
     public $conn;
 
     public function connect(){
